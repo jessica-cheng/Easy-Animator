@@ -1,0 +1,4 @@
+rectangle name R min-x 200 min-y 200 width 50 height 100 color 1 0 0 from 1 to 100
+rotate name R rotate 0 360 from 1 to 99
+oval name C2 layer 1 center-x 0 center-y 200 x-radius 60 y-radius 60 color 0 1 0 from 1 to 100
+move name C2 moveto 0 200 600 200 from 50 to 99
